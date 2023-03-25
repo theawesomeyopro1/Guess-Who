@@ -1,0 +1,53 @@
+('C:\\Users\\Raunak Singh\\OneDrive - VIC - Department of Education and '
+ 'Training\\Desktop\\python\\build\\main\\main.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0,
+  'SPLASH': 1},
+ [('PYZ-00.pyz',
+   'C:\\Users\\Raunak Singh\\OneDrive - VIC - Department of Education and '
+   'Training\\Desktop\\python\\build\\main\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\Raunak Singh\\OneDrive - VIC - Department of Education and '
+   'Training\\Desktop\\python\\build\\main\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\Raunak Singh\\OneDrive - VIC - Department of Education and '
+   'Training\\Desktop\\python\\build\\main\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\Raunak Singh\\OneDrive - VIC - Department of Education and '
+   'Training\\Desktop\\python\\build\\main\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\Raunak Singh\\OneDrive - VIC - Department of Education and '
+   'Training\\Desktop\\python\\build\\main\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\Raunak Singh\\OneDrive - VIC - Department of Education and '
+   'Training\\Desktop\\python\\build\\main\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\Raunak '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\Raunak '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('main',
+   'C:\\Users\\Raunak Singh\\OneDrive - VIC - Department of Education and '
+   'Training\\Desktop\\python\\main.py',
+   'PYSOURCE')],
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
